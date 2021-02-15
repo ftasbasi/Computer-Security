@@ -1,5 +1,5 @@
 # Computer-Security
-A virus that spreads through the python files which are currently at the same or under the directory of the virus. It copies encrypted version of itself to the other python files and executes the payload.
+A virus that spreads through the python files which are currently at the same or under the directory of the virus. It copies encrypted version of itself to the other python files and executes the payload. In case of any change in source code, it infects again.
 
 In the payload part it uses coronavirus statistics from https://opendata.ecdc.europa.eu
 
